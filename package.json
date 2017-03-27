@@ -1,0 +1,26 @@
+{
+  "name": "image-palette-finder",
+  "version": "1.0.0",
+  "description": "A short algorithm to find the most prominent color in pictures",
+  "main": "colorfinder.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihnsen/image-palette-finder.git"
+  },
+  "keywords": [
+    "colorfinder",
+    "color-finder",
+    "image-palette-finder",
+    "image-palette",
+    "palette-finder"
+  ],
+  "author": "mihnsen <minhnt.hut@gmail.com> (https://github.com/mihnsen/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihnsen/image-palette-finder/issues"
+  },
+  "homepage": "https://github.com/mihnsen/image-palette-finder#readme"
+}

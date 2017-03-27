@@ -1,0 +1,24 @@
+{
+  "name": "image-palette-finder",
+  "authors": [
+    "mihnsen <minhnt.hut@gmail.com>"
+  ],
+  "description": "A short algorithm to find the most prominent color in pictures",
+  "main": "colorfinder.js",
+  "keywords": [
+    "colorfinder",
+    "color-finder",
+    "image-palette-finder",
+    "image-palette",
+    "palette-finder"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mihnsen/image-palette-finder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
